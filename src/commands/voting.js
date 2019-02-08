@@ -255,6 +255,7 @@ module.exports = {
 
 		return {
 			yea: vote(true),
+			
 			aye: vote(true),
 			yes: vote(true),
 			for: vote(true),
@@ -263,6 +264,8 @@ module.exports = {
 			yeah: vote(true),
 			totally: vote(true),
 			absolutely: vote(true),
+			ye: vote(true)
+                        yee: vote(true)
 
 			nay: vote(false),
 			no: vote(false),
